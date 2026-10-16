@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" height="100%">
+    <defs>
+      <linearGradient id="g_irr" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#059669" />
+        <stop offset="100%" stop-color="#0284c7" />
+      </linearGradient>
+    </defs>
+    <rect width="400" height="240" rx="16" fill="url(#g_irr)" />
+    <circle cx="200" cy="85" r="45" fill="rgba(255,255,255,0.2)" />
+    <path d="M200 60 Q185 80 200 110 Q215 80 200 60 Z" fill="#ffffff" />
+    <path d="M195 90 Q175 85 170 100 Q185 100 195 93" fill="#ffffff" />
+    <path d="M205 90 Q225 85 230 100 Q215 100 205 93" fill="#ffffff" />
+    <text x="200" y="165" font-family="'Poppins', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">LoRa Smart Irrigation</text>
+    <text x="200" y="195" font-family="'Poppins', sans-serif" font-size="13" fill="rgba(255,255,255,0.85)" text-anchor="middle">ESP32 &amp; Soil Telemetry IoT</text>
+  </svg>

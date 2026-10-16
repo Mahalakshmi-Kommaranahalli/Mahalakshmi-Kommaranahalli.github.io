@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" height="100%">
+    <defs>
+      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#e11d48" />
+        <stop offset="100%" stop-color="#ea580c" />
+      </linearGradient>
+    </defs>
+    <rect width="400" height="240" rx="16" fill="url(#grad2)" />
+    <circle cx="200" cy="85" r="45" fill="rgba(255,255,255,0.2)" />
+    <path d="M170 110 L195 70 L215 100 L225 85 L240 110 Z" fill="#ffffff" />
+    <circle cx="200" cy="57" r="5" fill="#fef08a" />
+    <text x="200" y="165" font-family="'Poppins', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">Landslide Sentinel AI</text>
+    <text x="200" y="195" font-family="'Poppins', sans-serif" font-size="13" fill="rgba(255,255,255,0.85)" text-anchor="middle">Predictive Hazard Telemetry</text>
+  </svg>
