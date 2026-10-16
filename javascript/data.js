@@ -7,7 +7,7 @@ window.data = {
     fullName: "KOMMARANAHALLI MAHALAKSHMI",
     nickname: "Maha",
     title: "Computer Science & Engineering Student | IoT & Software Developer",
-    role: "Computer Science Engineer & IoT Developer 😊",
+    role: "Computer Science Engineer & Developer 😊",
     profileImage: "./assets/mahalakshmi_profile.jpg",
     summary: `
     Hello! I'm <b>KOMMARANAHALLI MAHALAKSHMI</b>, a Computer Science and Engineering student at <b>Jain Institute of Technology, Davanagere</b>. 💻
