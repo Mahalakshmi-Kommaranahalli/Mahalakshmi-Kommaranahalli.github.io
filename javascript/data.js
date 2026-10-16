@@ -10,7 +10,7 @@ window.data = {
     role: "Computer Science Engineer & IoT Developer 😊",
     profileImage: "./assets/mahalakshmi_profile.jpg",
     summary: `
-    Hello! I'm <b>KOMMARANAHALLI MAHALAKSHMI</b>, a third-year Computer Science and Engineering student at <b>Jain Institute of Technology, Davanagere</b>. 💻
+    Hello! I'm <b>KOMMARANAHALLI MAHALAKSHMI</b>, a Computer Science and Engineering student at <b>Jain Institute of Technology, Davanagere</b>. 💻
     <br /><br />
     I am passionate about <b>software development</b>, <b>Internet of Things (IoT)</b>, <b>embedded systems</b>, and <b>machine learning</b>. 🚀
     <br /><br />
@@ -21,7 +21,7 @@ window.data = {
     Let's connect and build something extraordinary together! ✨
     `,
     footerText: `
-    “Motivated third-year Computer Science student passionate about software development, IoT, embedded systems, and machine learning. Focused on practical projects and innovative technology solutions.”<br />
+    “Motivated Computer Science student passionate about software development, IoT, embedded systems, and machine learning. Focused on practical projects and innovative technology solutions.”<br />
     — KOMMARANAHALLI MAHALAKSHMI
     `,
     contact: {
@@ -60,24 +60,24 @@ window.data = {
 
   education: [
     {
-      endDate: "2027 (Expected)",
-      startDate: "2023",
-      area: "Computer Science and Engineering (3rd Year)",
+      endDate: "2028 (Expected)",
+      startDate: "2024",
+      area: "Computer Science and Engineering",
       studyType: "Bachelor of Engineering (B.E.)",
       institution: "Jain Institute of Technology, Davangere",
-      gpa: "8.6 CGPA (2nd Year)",
+      gpa: "8.6 CGPA",
     },
     {
-      endDate: "2023",
-      startDate: "2021",
+      endDate: "2024",
+      startDate: "2022",
       area: "Pre-University Education (12th / PUC)",
       studyType: "Science",
       institution: "Sir M V PU College",
       gpa: "Completed",
     },
     {
-      endDate: "2021",
-      startDate: "2020",
+      endDate: "2022",
+      startDate: "2021",
       area: "Secondary School Leaving Certificate (10th / SSLC)",
       studyType: "High School",
       institution: "Sri Gurudeva High School",
